@@ -1,6 +1,6 @@
 /* 0242: valid anagram */
 
-#include "../../utils/common.h"
+#include "../utils/common.h"
 
 /* the comparation function for comparing two character. this function sets the sorting rules for the qsort.*/
 int compar(const void *_a, const void *_b) {
