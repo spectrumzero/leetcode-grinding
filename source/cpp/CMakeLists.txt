@@ -11,4 +11,4 @@ include_directories("./utils/")
 add_compile_options("$<$<C_COMPILER_ID:MSVC>:/utf-8>")
 add_compile_options("$<$<CXX_COMPILER_ID:MSVC>:/utf-8>")
 
-add_executable(leetcode-grinding "./hello.cpp")
+add_executable(leetcode-grinding "./unsolved/0242.cpp")
