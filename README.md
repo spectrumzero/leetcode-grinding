@@ -9,5 +9,6 @@
 *INDEX (Unsolved)*
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:----------:|
-|[0242](./source/cpp/unsolved/0242.cpp)|[Valid Anagram](https://leetcode.cn/problems/valid-anagram/description/)|Hash Table; [String, Sorting](./source/c/unsolved/0242.c)|   easy   |
-|[0217](./source/cpp/unsolved/0217.cpp)|[Contains Duplicate](https://leetcode.cn/problems/contains-duplicate/description/)|Hash Table; [Array, Sorting](./source/c/unsolved/0217.c)|   easy   |
+|0001|[Two Sum](https://leetcode.cn/problems/two-sum/description/)|[Hash Table](./source/cpp/unsolved/0001.cpp)|   easy   |
+|0242|[Valid Anagram](https://leetcode.cn/problems/valid-anagram/description/)|[Hash Table](./source/cpp/unsolved/0242.cpp); [String, Sorting](./source/c/unsolved/0242.c)|   easy   |
+|0217|[Contains Duplicate](https://leetcode.cn/problems/contains-duplicate/description/)|[Hash Table](./source/cpp/unsolved/0217.cpp); [Array, Sorting](./source/c/unsolved/0217.c)|   easy   |
