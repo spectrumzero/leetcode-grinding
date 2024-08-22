@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-  /*O(n)*/
+  /* O(n) */
   // hashtable(using array)
   bool isAnagramhashtablearray(string s, string t) {
     if (s.length() != t.length()) {
@@ -29,7 +29,7 @@ public:
     return true;
   }
 
-  /*O(n)*/
+  /* O(n) */
   // hashtable
   bool isAnagramhashtable(string s, string t) {
     // Notice: the map will automatically initialize the value to the default value for the value type. In this case the default value for int is 0.

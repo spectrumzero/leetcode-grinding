@@ -5,6 +5,7 @@
 class Solution {
 public:
   /* O(n) */
+  // hashtable
   vector<int> twoSumhashtable(vector<int> &nums, int target) {
     // key: the element of nums; value: the index of nums;
     unordered_map<int, int> map;
@@ -26,12 +27,10 @@ public:
   vector<int> twoSumtwopass(vector<int> &nums, int target) {
     unordered_map<int, int> numMap;
     int n = nums.size();
-
     // Build the hash table
     for (int i = 0; i < n; i++) {
       numMap[nums[i]] = i;
     }
-
     // Find the complement
     for (int i = 0; i < n; i++) {
       int complement = target - nums[i];
@@ -41,8 +40,8 @@ public:
         return {i, numMap[complement]};
       }
     }
-
-    return {}; // No solution found
+    // No solution found
+    return {};
   }
 };
 

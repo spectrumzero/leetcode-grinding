@@ -3,7 +3,8 @@
 
 class Solution {
 public:
-  /*O(n)*/
+  /* O(n) */
+  // hashtable
   bool containsDuplicate(vector<int> &nums) {
     unordered_set<int> s;
     for (int x : nums) {
