@@ -3,6 +3,7 @@
 *INDEX (Solved)*                            
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-----------:|:----------:|
+|0349|[Intersection of Two Arrays](https://leetcode.cn/problems/intersection-of-two-arrays/description/)|[Hash Table](./source/cpp/0349.cpp)|   easy   |
 
 
 
