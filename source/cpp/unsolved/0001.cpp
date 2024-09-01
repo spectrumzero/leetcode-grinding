@@ -1,6 +1,5 @@
 /* 0001: Two Sum */
 #include "../utils/common.h"
-#include <cstdio>
 
 class Solution {
 public:
@@ -34,7 +33,6 @@ public:
     // Find the complement
     for (int i = 0; i < n; i++) {
       int complement = target - nums[i];
-      // unordered_map::count: check whether the value corresponding to the key (complement here) exists in the map and return 1 (found) or 0 (not found)
       // ensure every element of nums is used only once
       if (numMap.count(complement) && numMap[complement] != i) {
         return {i, numMap[complement]};
@@ -46,10 +44,13 @@ public:
 };
 
 int main() {
-  vector<int> nums = {1, 2, 2, 3, 4, 7};
+  vector<int> nums = {0, 2, 2, 3, 5, 7};
   Solution sol;
-  vector<int> res2 = sol.twoSumhashtable(nums, 10); //[5,3]
-  vector<int> res = sol.twoSumtwopass(nums, 10);    //[3,5]
+  // Assumption: exactly one solution
+  vector<int> res2 = sol.twoSumhashtable(nums, 4); //[1,2]
+  vector<int> res = sol.twoSumtwopass(nums, 4);    //[2,1]
   cout << "[ " << res[0] << "," << res[1] << " ]" << endl;
   cout << "[ " << res2[0] << "," << res2[1] << " ]" << endl;
 }
+
+// unordered_map::count: check whether the value corresponding to the key (complement here) exists in the map and return 1 (found) or 0 (not found)

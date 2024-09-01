@@ -53,6 +53,7 @@ int main() {
   vector<int> nums1 = {5, 7, 2, 9};
   vector<int> nums2 = {9, 7};
   Solution sol;
+  // R: each element in the result must be unique
   vector<int> res = sol.intersection(nums1, nums2); //[9,7]
   // vector<int> res = sol.intersectionsimilar(nums1, nums2); //[7,9]
   cout << "[";

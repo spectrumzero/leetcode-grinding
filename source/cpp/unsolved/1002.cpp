@@ -14,6 +14,7 @@ public:
       // stores the final result of the frequency. It will be updated through the next loop.
       hashMap[k - 'a']++;
     }
+    // update the hashMap starting from the second string
     for (int i = 1; i < n; i++) {
       vector<int> hashMaptmp(26, 0);
       for (auto &k : words[i]) {
@@ -29,7 +30,9 @@ public:
     // output
     vector<string> result;
     for (int i = 0; i < 26; i++) {
-      // if hashmap[i]>0
+      // the condition expression in the while loop serves two purposes:
+      // first is to check whether hashmap[i]>0; the value will be returned before it is decremented;
+      // second is to decrement the hashmap[i] because a letter may occur equal multiple times in each string like the example below.
       while (hashMap[i]--) {
         // std::vector::push_back: Add new value at the end of the vector;
         // std::vector::string(n,char): Create a string by repeating a character n times. "i+'a'" will be transformed to ASCII first and then be turned into a character;
@@ -42,7 +45,7 @@ public:
 };
 
 int main() {
-  vector<string> input = {"datastructure", "dsa", "doalgorithms", "asspd"}; // [a,d,s]
+  vector<string> input = {"datastructure", "dsaa", "doaalgorithms", "aasspd"}; // [a,a,d,s]
   Solution s1;
   vector<string> res;
   res = s1.commonChars(input);
@@ -50,5 +53,5 @@ int main() {
   for (int i = 0; i < res.size() - 1; i++) {
     cout << res[i] << ",";
   }
-  cout << res[res.size() - 1] << " ]";
+  cout << res[res.size() - 1] << " ]" << endl;
 }

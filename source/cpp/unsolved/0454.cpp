@@ -34,6 +34,7 @@ int main() {
   vector<int> nums3 = {0, -1};
   vector<int> nums4 = {5, 0};
   Solution sol;
+  // R: return the number of triplets
   cout << sol.fourSumCount(nums1, nums2, nums3, nums4) << endl; // 1*3+1*1=4
   return 0;
 }
