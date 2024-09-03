@@ -3,6 +3,7 @@
 *INDEX (Solved)*                            
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-----------:|:----------:|
+|0020|[Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/description/)|[Stack](./source/cpp/0020.cpp)|   easy   |
 |0349|[Intersection of Two Arrays](https://leetcode.cn/problems/intersection-of-two-arrays/description/)|[Hash Table](./source/cpp/0349.cpp)|   easy   |
 |0383|[Ransom Note](https://leetcode.cn/problems/ransom-note/description/)|[Hash Table](./source/cpp/0383.cpp)|   easy   |
 
