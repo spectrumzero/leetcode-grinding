@@ -1,0 +1,7 @@
+CompileFlags:
+  Add: [
+    "-std=c++17",
+    # the `I` flag tell the compiler where to find additional header files outside of the stdlib.
+    # add your own path of the project. with this, you will be comfortable with replacing relative path with absolute path.
+    "-I/home/spectrieu/lazycoding/leetcode-grinding/source/cpp/", 
+  ]
