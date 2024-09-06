@@ -1,5 +1,5 @@
 /* 0155: Min Stack */
-#include "../utils/common.h"
+#include "utils/common.h"
 
 class MinStack {
   /* O(1) */

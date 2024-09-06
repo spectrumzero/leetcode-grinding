@@ -1,5 +1,5 @@
 /* 0020: Valid Parentheses */
-#include "./utils/common.h"
+#include "utils/common.h"
 
 class Solution {
 public:

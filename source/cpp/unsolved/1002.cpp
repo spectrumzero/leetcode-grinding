@@ -1,5 +1,5 @@
 /* 1002: Find Common Characters*/
-#include "../utils/common.h"
+#include "utils/common.h"
 
 class Solution {
 public:

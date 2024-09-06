@@ -1,5 +1,5 @@
 /* 0383: Ransom Note */
-#include "./utils/common.h"
+#include "utils/common.h"
 
 class Solution {
 public:

@@ -1,5 +1,5 @@
 /* 0242: Valid Anagram */
-#include "../utils/common.h"
+#include "utils/common.h"
 
 class Solution {
 public:

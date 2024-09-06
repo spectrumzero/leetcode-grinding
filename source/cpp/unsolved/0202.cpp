@@ -1,5 +1,5 @@
 /* 0202: Happy Number */
-#include "../utils/common.h"
+#include "utils/common.h"
 
 class Solution {
 public:

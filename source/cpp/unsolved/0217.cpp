@@ -1,5 +1,5 @@
 /* 0217: Contains Duplicate */
-#include "../utils/common.h"
+#include "utils/common.h"
 
 class Solution {
 public:

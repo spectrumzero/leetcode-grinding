@@ -1,5 +1,5 @@
 /* 0001: Two Sum */
-#include "../utils/common.h"
+#include "utils/common.h"
 
 class Solution {
 public:

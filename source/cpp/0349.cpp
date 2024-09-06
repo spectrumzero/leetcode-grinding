@@ -1,5 +1,5 @@
 /* 0349: Intersection of Two Arrays */
-#include "./utils/common.h"
+#include "utils/common.h"
 
 class Solution {
 public:
