@@ -8,3 +8,6 @@
 #include <unordered_set>
 #include <vector>
 using namespace std;
+
+// print vector
+void printVector(vector<int> &vec);
