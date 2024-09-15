@@ -1,4 +1,5 @@
 #include <algorithm>
+#include <cctype>
 #include <climits>
 #include <cstdlib>
 #include <iostream>
