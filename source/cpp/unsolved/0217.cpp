@@ -25,9 +25,10 @@ int main() {
   cout << s.containsDuplicate(nums) << endl;
 }
 
-/* std::unordered_set::find:
-First it will hash the passed key to produce a hash value. Using this hash value, it then locates the corresponding bucket index.
-After locating the bucket which contains elements using chaining, it searches the elements within that bucket with O(1) in average.
-If the key is found, the function returns a iterator pointing to that element.
-Otherwise, it returns end(), an iterator that represents the past-the-end position in the container.
-*/
+/* NOTE:
+ * std::unordered_set::find:
+ * First it will hash the passed key to produce a hash value. Using this hash value, it then locates the corresponding bucket index.
+ * After locating the bucket which contains elements using chaining, it searches the elements within that bucket with O(1) in average.
+ * If the key is found, the function returns a iterator pointing to that element.
+ * Otherwise, it returns end(), an iterator that represents the past-the-end position in the container.
+ */

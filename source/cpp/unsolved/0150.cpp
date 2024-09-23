@@ -45,11 +45,9 @@ int main() {
   return 0;
 }
 
-/* int num = atoi(x.c_str());
- *
+/* NOTE:
+ * int num = atoi(x.c_str());
  * 1: std::string::c_str(): Returns a pointer to a null-terminated character array with data equivalent to those stored in the string.
- *
  * 2: std::atoi(const char* str): Transform characters into an integer and return it. you should have noticed that the parameter list only receives the pointer pointing to a character array. So the step one is necessary.
  * eg: '42' -> 42; '31337 with words' -> 31337; '0x2a' -> 0;
- *
  */

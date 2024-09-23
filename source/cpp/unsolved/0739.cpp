@@ -58,6 +58,7 @@ public:
     }
     return res;
   }
+  // NOTE:
   // Q: WHY O(n) even though there is a while loop nested in the for loop?
   // A: Taking a closer look at the whole algorithm, we can find each element is pushed onto or popped from the stack exactly (no more than) once.
   //    The while loop here is used for poping the elements. No matter how random the temperatures order is or how many elements there are, the total times of pops are proportional to N.

@@ -36,10 +36,12 @@ int main() {
   cout << sol.isPalindrome(s) << endl;
 }
 
-/* std::isalnum(int ch):
+/* NOTE:
+ * std::isalnum(int ch):
  * checks if the given charecter is an alphanumeric charecter.
  * By default, the digits(0123456789), uppercase letters(A-Z) and lowercase letters(a-z) are alphanumeric.
  *
+ * NOTE:
  * std::tolower(int ch):
  * converts the given uppercase letter to the corresponding lowercase letter.
  * if any other unsigned char is passed, this function will not modify it.

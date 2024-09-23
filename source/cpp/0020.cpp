@@ -79,4 +79,5 @@ int main() {
   return 0;
 }
 
-/* std::stack::empty(): true if empty; false if not. */
+/* NOTE:
+ * std::stack::empty(): true if empty; false if not. */
