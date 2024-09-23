@@ -23,5 +23,6 @@
 |0217|[Contains Duplicate](https://leetcode.cn/problems/contains-duplicate/description/)|[Hash Table](./source/cpp/unsolved/0217.cpp); [Array, Sorting](./source/c/unsolved/0217.c)|   easy   |
 |0242|[Valid Anagram](https://leetcode.cn/problems/valid-anagram/description/)|[Hash Table](./source/cpp/unsolved/0242.cpp); [String, Sorting](./source/c/unsolved/0242.c)|   easy   |
 |0454|[4Sum II](https://leetcode.cn/problems/4sum-ii/description/)|[Hash Table](./source/cpp/unsolved/0454.cpp)|   medium   |
+|0704|[Binary Search](https://leetcode.cn/problems/binary-search/description/)|[Binary Search](./source/cpp/unsolved/0704.cpp)|   easy   |
 |0739|[Daily Temperatures](https://leetcode.cn/problems/daily-temperatures/description/)|[Stack](./source/cpp/unsolved/0739.cpp)|   medium   |
 |1002|[Find Common Characters](https://leetcode.cn/problems/find-common-characters/description/)|[Hash Table](./source/cpp/unsolved/1002.cpp)|   easy   |
