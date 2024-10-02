@@ -27,4 +27,5 @@
 |0454|[4Sum II](https://leetcode.cn/problems/4sum-ii/description/)|[Hash Table](./source/cpp/unsolved/0454.cpp)|   medium   |
 |0704|[Binary Search](https://leetcode.cn/problems/binary-search/description/)|[Binary Search](./source/cpp/unsolved/0704.cpp)|   easy   |
 |0739|[Daily Temperatures](https://leetcode.cn/problems/daily-temperatures/description/)|[Stack](./source/cpp/unsolved/0739.cpp)|   medium   |
+|0875|[Koko Eating Bananas](https://leetcode.cn/problems/koko-eating-bananas/description/)|[Binary Search](./source/cpp/unsolved/0875.cpp)|   medium   |
 |1002|[Find Common Characters](https://leetcode.cn/problems/find-common-characters/description/)|[Hash Table](./source/cpp/unsolved/1002.cpp)|   easy   |
