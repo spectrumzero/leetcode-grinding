@@ -1,8 +1,10 @@
 #include "utils/common.h"
-void printVector(vector<int> &vec) {
-  cout << "[";
-  for (int i = 0; i < vec.size() - 1; i++) {
-    cout << vec[i] << ",";
+
+void printLinkedList(ListNode *head) {
+  ListNode *cur = head;
+  while (cur) {
+    cout << cur->val << "->";
+    cur = cur->next;
   }
-  cout << vec[vec.size() - 1] << "]" << endl;
+  cout << "nullptr" << endl;
 }

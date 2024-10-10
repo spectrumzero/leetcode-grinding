@@ -14,6 +14,14 @@
 #include <vector>
 using namespace std;
 
+// ListNode struct
+typedef struct ListNode {
+  int val;
+  ListNode *next;
+  ListNode(int x) : val(x), next(nullptr) {}
+  ListNode(int x, ListNode *next) : val(x), next(next) {}
+} ListNode;
+
 // print vector
 template <typename T> void printVector(const vector<T> &vec) {
   cout << "[";
@@ -22,5 +30,8 @@ template <typename T> void printVector(const vector<T> &vec) {
   }
   cout << vec[vec.size() - 1] << "]" << endl;
 }
+
+// print LinkedList
+void printLinkedList(ListNode *head);
 
 #endif // !COMMON_H
