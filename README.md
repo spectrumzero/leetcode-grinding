@@ -3,7 +3,7 @@
 *INDEX (Solved)*                            
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-----------:|:----------:|
-|0020|[Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/description/)|[Stack, HashTable](./source/cpp/0020.cpp)|   easy   |
+|0020|[Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/description/)|[Stack; HashTable](./source/cpp/0020.cpp)|   easy   |
 |0027|[Remove Element](https://leetcode.cn/problems/remove-element/description/)|[Two Pointers](./source/cpp/0027.cpp)|   easy   |
 |0035|[Search Insert Position](https://leetcode.cn/problems/search-insert-position/description/)|[Binary Search](./source/cpp/0035.cpp)|   easy   |
 |0125|[Valid Palindrome](https://leetcode.cn/problems/valid-palindrome/description/)|[Two Pointers](./source/cpp/0125.cpp)|   easy   |
@@ -11,6 +11,7 @@
 |0344|[Reverse String](https://leetcode.cn/problems/reverse-string/description/)|[Two Pointers](./source/cpp/0344.cpp)|   easy   |
 |0349|[Intersection of Two Arrays](https://leetcode.cn/problems/intersection-of-two-arrays/description/)|[Hash Table](./source/cpp/0349.cpp)|   easy   |
 |0383|[Ransom Note](https://leetcode.cn/problems/ransom-note/description/)|[Hash Table](./source/cpp/0383.cpp)|   easy   |
+|0876|[Middle of the Linked List](https://leetcode.cn/problems/middle-of-the-linked-list/description/)|[Linked List; Two Pointers](./source/cpp/0876.cpp)|   easy   |
 
 
 
