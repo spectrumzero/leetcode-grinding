@@ -3,6 +3,7 @@
 *INDEX (Solved)*                            
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-----------:|:----------:|
+|0019|[Remove Nth Node From End Of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)|[Linked List; Stack](./source/cpp/0019.cpp)|   medium   |
 |0020|[Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/description/)|[Stack; HashTable](./source/cpp/0020.cpp)|   easy   |
 |0027|[Remove Element](https://leetcode.cn/problems/remove-element/description/)|[Two Pointers](./source/cpp/0027.cpp)|   easy   |
 |0035|[Search Insert Position](https://leetcode.cn/problems/search-insert-position/description/)|[Binary Search](./source/cpp/0035.cpp)|   easy   |
