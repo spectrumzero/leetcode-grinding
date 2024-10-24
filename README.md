@@ -20,6 +20,7 @@
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:----------:|
 |0001|[Two Sum](https://leetcode.cn/problems/two-sum/description/)|[Hash Table](./soure/cpp/unsolved/0001.cpp)|   easy   |
+|0002|[Add Two Numbers](https://leetcode.cn/problems/add-two-numbers/description/)|[Linked List; Math](./source/cpp/unsolved/0002.cpp)|   medium   |
 |0021|[Merge Two Sorted Lists](https://leetcode.cn/problems/merge-two-sorted-lists/description/)|[Linked List](./source/cpp/unsolved/0021.cpp)|   easy   |
 |0074|[Search a 2D Matrix](https://leetcode.cn/problems/search-a-2d-matrix/description/)|[Binary Search](./source/cpp/unsolved/0074.cpp)|   medium   |
 |0143|[Reorder List](https://leetcode.cn/problems/reorder-list/description/)|[Linked List](./source/cpp/unsolved/0143.cpp)|   medium   |
