@@ -27,7 +27,6 @@ int main() {
 
   printTree(root);
 
-  cout << "+++++++++++++++++++++++++++++++++++" << endl;
   Solution sol;
   sol.invertTree(root);
 

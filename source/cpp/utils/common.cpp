@@ -52,5 +52,8 @@ void printTree(TreeNode *root, Trunk *prev, bool isRight) {
   printTree(root->left, &trunk, false);
 }
 
-void printTree(TreeNode *root) { printTree(root, nullptr, false); }
+void printTree(TreeNode *root) {
+  printTree(root, nullptr, false);
+  cout << "+++++++++++++++++++++++++++++++++++" << endl;
+}
 // ends
