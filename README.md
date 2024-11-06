@@ -9,6 +9,7 @@
 |0035|[Search Insert Position](https://leetcode.cn/problems/search-insert-position/description/)|[Binary Search](./source/cpp/0035.cpp)|   easy   |
 |0125|[Valid Palindrome](https://leetcode.cn/problems/valid-palindrome/description/)|[Two Pointers](./source/cpp/0125.cpp)|   easy   |
 |0104|[Maximum Depth of Binary Tree](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/)|[Binary Tree; Recursion](./source/cpp/0104.cpp)|   easy   |
+|0100|[Same Tree](https://leetcode.cn/problems/same-tree/description/)|[Binary Tree; Recursion;](./source/cpp/0100.cpp)|   easy   |
 |0110|[Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/description/)|[Binary Tree; Recursion; Tricks](./source/cpp/0110.cpp)|   easy   |
 |0141|[Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/description/)|[Linked List; Hash Table; Two Pointers](./source/cpp/0141.cpp)|   easy   |
 |0151|[Reverse Words in a String](https://leetcode.cn/problems/reverse-words-in-a-string/description/)|[Two Pointers](./source/cpp/0151.cpp)|   medium   |
