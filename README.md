@@ -43,3 +43,4 @@
 |0739|[Daily Temperatures](https://leetcode.cn/problems/daily-temperatures/description/)|[Stack](./source/cpp/unsolved/0739.cpp)|   medium   |
 |0875|[Koko Eating Bananas](https://leetcode.cn/problems/koko-eating-bananas/description/)|[Binary Search](./source/cpp/unsolved/0875.cpp)|   medium   |
 |1002|[Find Common Characters](https://leetcode.cn/problems/find-common-characters/description/)|[Hash Table](./source/cpp/unsolved/1002.cpp)|   easy   |
+|1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/description/)|[Binary Tree; Recursion; Tricks](./source/cpp/unsolved/1123.cpp)|   medium   |
