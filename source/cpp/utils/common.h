@@ -7,6 +7,7 @@
 #include <cstddef>
 #include <cstdlib>
 #include <iostream>
+#include <queue>
 #include <stack>
 #include <string>
 #include <unordered_map>
@@ -50,6 +51,21 @@ template <typename T> void printVector(const vector<T> &vec) {
     cout << vec[i] << ",";
   }
   cout << vec[vec.size() - 1] << "]" << endl;
+}
+
+// print 2d vector
+template <typename T> void print2DVector(const vector<vector<T>> &vec) {
+  cout << "[" << endl;
+  for (const auto &row : vec) {
+    cout << "  [";
+    for (size_t i = 0; i < row.size(); ++i) {
+      cout << row[i];
+      if (i < row.size() - 1)
+        cout << ", ";
+    }
+    cout << "]" << endl;
+  }
+  cout << "]" << endl;
 }
 
 // print LinkedList
