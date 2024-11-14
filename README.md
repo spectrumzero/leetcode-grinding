@@ -13,6 +13,7 @@
 |0110|[Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/description/)|[Binary Tree; Recursion; Tricks](./source/cpp/0110.cpp)|   easy   |
 |0141|[Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/description/)|[Linked List; Hash Table; Two Pointers](./source/cpp/0141.cpp)|   easy   |
 |0151|[Reverse Words in a String](https://leetcode.cn/problems/reverse-words-in-a-string/description/)|[Two Pointers](./source/cpp/0151.cpp)|   medium   |
+|0199|[Binary Tree Right Side View](https://leetcode.cn/problems/binary-tree-right-side-view/description/)|[Binary Tree; Queue; Recursion; Tricks](./source/cpp/0199.cpp)|   medium   |
 |0344|[Reverse String](https://leetcode.cn/problems/reverse-string/description/)|[Two Pointers](./source/cpp/0344.cpp)|   easy   |
 |0349|[Intersection of Two Arrays](https://leetcode.cn/problems/intersection-of-two-arrays/description/)|[Hash Table](./source/cpp/0349.cpp)|   easy   |
 |0383|[Ransom Note](https://leetcode.cn/problems/ransom-note/description/)|[Hash Table](./source/cpp/0383.cpp)|   easy   |
