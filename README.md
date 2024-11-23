@@ -24,6 +24,7 @@
 |:------------------------------:|:----------------------------------------------------------------------:|:-----------:|:----------:|
 |0019|[Remove Nth Node From End Of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)|[Linked List; Stack](./source/cpp/0019.cpp)|   medium   |
 |0020|[Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/description/)|[Stack; HashTable](./source/cpp/0020.cpp)|   easy   |
+|0230|[Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/)|[Binary Tree; Recursion; Stack](./source/cpp/0230.cpp)|   medium   |
 
 
 ### *Queue*
@@ -56,6 +57,7 @@
 |0104|[Maximum Depth of Binary Tree](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/)|[Binary Tree; Recursion](./source/cpp/0104.cpp)|   easy   |
 |0110|[Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/description/)|[Binary Tree; Recursion; Tricks](./source/cpp/0110.cpp)|   easy   |
 |0199|[Binary Tree Right Side View](https://leetcode.cn/problems/binary-tree-right-side-view/description/)|[Binary Tree; Queue; Recursion; Tricks](./source/cpp/0199.cpp)|   medium   |
+|0230|[Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/)|[Binary Tree; Recursion; Stack](./source/cpp/0230.cpp)|   medium   |
 
 
 ## INDEX (Unsolved)
@@ -84,6 +86,7 @@
 ### *Stack*
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:----------:|
+|0098|[Validate Binary Search Tree](https://leetcode.cn/problems/validate-binary-search-tree/description/)|[Binary Tree; Recursion; Tricks; Stack](./source/cpp/unsolved/0098.cpp)|   medium   |
 |0155|[Min Stack](https://leetcode.cn/problems/min-stack/description/)|[Stack](./source/cpp/unsolved/0155.cpp)|   medium   |
 |0739|[Daily Temperatures](https://leetcode.cn/problems/daily-temperatures/description/)|[Stack](./source/cpp/unsolved/0739.cpp)|   medium   |
 
@@ -101,7 +104,7 @@
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:----------:|
 |0026|[Invert Binary Tree](https://leetcode.cn/problems/invert-binary-tree/description/)|[Binary Tree; Recursion](./source/cpp/unsolved/0026.cpp)|   easy   |
-|0098|[Validate Binary Search Tree](https://leetcode.cn/problems/validate-binary-search-tree/description/)|[Binary Tree; Recursion; Tricks](./source/cpp/unsolved/0098.cpp)|   medium   |
+|0098|[Validate Binary Search Tree](https://leetcode.cn/problems/validate-binary-search-tree/description/)|[Binary Tree; Recursion; Tricks; Stack](./source/cpp/unsolved/0098.cpp)|   medium   |
 |0102|[Binary Tree Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)|[Binary Tree; Queue](./source/cpp/unsolved/0102.cpp)|   medium   |
 |0543|[Diameter of Binary Tree](https://leetcode.cn/problems/diameter-of-binary-tree/description/)|[Binary Tree; Recursion; Tricks](./source/cpp/unsolved/0543.cpp)|   easy   |
 |0572|[Subtree of Another Tree](https://leetcode.cn/problems/subtree-of-another-tree/description/)|[Binary Tree; Recursion](./source/cpp/unsolved/0572.cpp)|   easy   |
