@@ -20,6 +20,29 @@ public:
   }
 
   // TODO:Stack
+  bool isValidBST2(TreeNode *root) {
+    stack<TreeNode *> stk;
+    // Explicit Type Conversion
+    long long inorder = (long long)INT_MIN - 1;
+    TreeNode *current = root;
+
+    // NOTE: Use a stack to store all nodes to be processed. Its FILO character ensures the correct order for in-order traversal.
+    while (!stk.empty() || current != nullptr) {
+      while (current != nullptr) {
+        stk.push(current);
+        current = current->left;
+      }
+      current = stk.top();
+      stk.pop();
+      // Implicit Conversion
+      if (current->val <= inorder) {
+        return false;
+      }
+      inorder = current->val;
+      current = current->right;
+    }
+    return true;
+  }
 };
 
 int main() {
@@ -31,7 +54,7 @@ int main() {
   root->left->right = new TreeNode(7);
   printTree(root);
   Solution sol;
-  cout << sol.isValidBST(root) << endl; // false!
+  cout << sol.isValidBST2(root) << endl; // false!
 
   return 0;
 }
