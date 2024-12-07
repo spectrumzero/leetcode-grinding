@@ -91,6 +91,13 @@
 |0739|[Daily Temperatures](https://leetcode.cn/problems/daily-temperatures/description/)|[Stack](./source/cpp/unsolved/0739.cpp)|   medium   |
 
 
+### *Priority Queue*
+|               ID               |                               Problem                                  |     DSA     | Difficulty |
+|:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:----------:|
+|0703|[Kth Largest Element in a Stream](https://leetcode.cn/problems/kth-largest-element-in-a-stream/description/)|[Priority Queue; Tricks](./source/cpp/unsolved/0703.cpp)|   easy   |
+
+
+
 ### *Binary Search*
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:----------:|

@@ -6,6 +6,7 @@
 #include <climits>
 #include <cstddef>
 #include <cstdlib>
+#include <functional>
 #include <iostream>
 #include <queue>
 #include <stack>
