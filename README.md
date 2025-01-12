@@ -27,6 +27,12 @@
 |0230|[Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/)|[Binary Tree; Recursion; Stack](./source/cpp/0230.cpp)|   medium   |
 
 
+### *Priority Queue*
+|               ID               |                               Problem                                  |     DSA     | Difficulty |
+|:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:----------:|
+|1046|[Last Stone Weight](https://leetcode.cn/problems/last-stone-weight/description/)|[Priority Queue](./source/cpp/1046.cpp)|   easy   |
+
+
 ### *Queue*
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-----------:|:----------:|

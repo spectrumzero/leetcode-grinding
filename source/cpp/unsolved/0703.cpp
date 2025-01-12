@@ -4,7 +4,7 @@
 class KthLargest {
 public:
   // Min Heap; Top k
-  // log(n)
+  // nlog(n)
   priority_queue<int, vector<int>, greater<int>> q;
   int size;
 
