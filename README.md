@@ -101,6 +101,7 @@
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:----------:|
 |0703|[Kth Largest Element in a Stream](https://leetcode.cn/problems/kth-largest-element-in-a-stream/description/)|[Priority Queue; Tricks](./source/cpp/unsolved/0703.cpp)|   easy   |
+|0973|[K Closest Points to Origin](https://leetcode.cn/problems/k-closest-points-to-origin/description/)|[Priority Queue; Pair](./source/cpp/unsolved/0973.cpp)|   medium   |
 
 
 
@@ -121,5 +122,5 @@
 |0102|[Binary Tree Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)|[Binary Tree; Queue](./source/cpp/unsolved/0102.cpp)|   medium   |
 |0543|[Diameter of Binary Tree](https://leetcode.cn/problems/diameter-of-binary-tree/description/)|[Binary Tree; Recursion; Tricks](./source/cpp/unsolved/0543.cpp)|   easy   |
 |0572|[Subtree of Another Tree](https://leetcode.cn/problems/subtree-of-another-tree/description/)|[Binary Tree; Recursion](./source/cpp/unsolved/0572.cpp)|   easy   |
-|1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/description/)|[Binary Tree; Recursion; Tricks](./source/cpp/unsolved/1123.cpp)|   medium   |
+|1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/description/)|[Binary Tree; Recursion; Pair](./source/cpp/unsolved/1123.cpp)|   medium   |
 |1448|[Count Good Nodes In Binary Tree](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/description/)|[Binary Tree; Recursion; Tricks](./source/cpp/unsolved/1448.cpp)|   medium   |
