@@ -30,6 +30,7 @@
 ### *Priority Queue*
 |               ID               |                               Problem                                  |     DSA     | Difficulty |
 |:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:----------:|
+|0215|[Kth Largest Element in an Array](https://leetcode.cn/problems/kth-largest-element-in-an-array/description/)|[Priority Queue](./source/cpp/0215.cpp)|   medium   |
 |1046|[Last Stone Weight](https://leetcode.cn/problems/last-stone-weight/description/)|[Priority Queue](./source/cpp/1046.cpp)|   easy   |
 
 
